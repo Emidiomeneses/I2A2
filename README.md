@@ -1,2 +1,2 @@
 # I2A2
-Desafios
+Desafio: Qual máquina (equipamento) esta com defeito:
